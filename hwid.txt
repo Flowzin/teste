@@ -1,3 +1,6 @@
-Loader Alpha v0.01
-Loader Hack jogo Rust Legacy
-Criado e totalmente desenvolvido por Screen
+Pistols:
+Classic: 0x12BD7BFD
+Shorty: 0x82BD7BFD
+Frenzy: 0x91BD7BFD
+Ghost: 0x19BD7BFD
+Sheriff: 0x73BD7BFD
